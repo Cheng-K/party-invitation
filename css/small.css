@@ -1,0 +1,14 @@
+/* Layout styles */
+.container{
+	width : 100%;
+	margin : 0;
+}
+
+section {
+	border-radius : 0;
+	margin : 0;
+}
+
+#imageHeading img {
+	border-radius : 0;
+}
